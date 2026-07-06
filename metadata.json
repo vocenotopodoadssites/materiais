@@ -1,0 +1,6 @@
+{
+  "name": "Apostilas do Professor",
+  "description": "Materiais pedagógicos estruturados e prontos de acordo com a BNCC para professores de Ensino Fundamental II e Ensino Médio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
